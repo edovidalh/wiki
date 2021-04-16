@@ -1,5 +1,14 @@
+*{
+    background-color: rgb(245, 235, 235);
+
+}
+
 #inicio{
-    text-align:center; 
-    color: blue;
+    text-align:left; 
+    color:  rgb(48, 46, 46);
+    
+}
+#navegacion{
+    float: right;
 
 }
